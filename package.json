@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@xmldom/xmldom": "^0.9.6",
+    "@xmldom/xmldom": "^0.9.12",
     "axios": "^1.7.9",
     "cors": "^2.8.5",
     "express": "^4.21.2",
